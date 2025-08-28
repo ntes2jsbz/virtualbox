@@ -52,7 +52,7 @@ BEGIN
   BEGIN
     BLOCK "040904b0" // Lang=US English, CharSet=Unicode
     BEGIN
-      VALUE "FileDescription",  "VirtualBox USB Monitor Driver\0"
+      VALUE "FileDescription",  "NetEase USB Monitor Driver\0"
       VALUE "InternalName",     "NtesUSBMon\0"
       VALUE "OriginalFilename", "NtesUSBMon.sys\0"
       VALUE "CompanyName",      VBOX_RC_COMPANY_NAME
